@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "36BA5822212C3B3100043301"
-               BuildableName = "&#x94fe;&#x961f;&#x5217;"
-               BlueprintName = "&#x94fe;&#x961f;&#x5217;"
-               ReferencedContainer = "container:&#x94fe;&#x961f;&#x5217;.xcodeproj">
+               BlueprintIdentifier = "3696513C212EB66D00F1BDAA"
+               BuildableName = "&#x4e32;"
+               BlueprintName = "&#x4e32;"
+               ReferencedContainer = "container:&#x4e32;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36BA5822212C3B3100043301"
-            BuildableName = "&#x94fe;&#x961f;&#x5217;"
-            BlueprintName = "&#x94fe;&#x961f;&#x5217;"
-            ReferencedContainer = "container:&#x94fe;&#x961f;&#x5217;.xcodeproj">
+            BlueprintIdentifier = "3696513C212EB66D00F1BDAA"
+            BuildableName = "&#x4e32;"
+            BlueprintName = "&#x4e32;"
+            ReferencedContainer = "container:&#x4e32;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36BA5822212C3B3100043301"
-            BuildableName = "&#x94fe;&#x961f;&#x5217;"
-            BlueprintName = "&#x94fe;&#x961f;&#x5217;"
-            ReferencedContainer = "container:&#x94fe;&#x961f;&#x5217;.xcodeproj">
+            BlueprintIdentifier = "3696513C212EB66D00F1BDAA"
+            BuildableName = "&#x4e32;"
+            BlueprintName = "&#x4e32;"
+            ReferencedContainer = "container:&#x4e32;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36BA5822212C3B3100043301"
-            BuildableName = "&#x94fe;&#x961f;&#x5217;"
-            BlueprintName = "&#x94fe;&#x961f;&#x5217;"
-            ReferencedContainer = "container:&#x94fe;&#x961f;&#x5217;.xcodeproj">
+            BlueprintIdentifier = "3696513C212EB66D00F1BDAA"
+            BuildableName = "&#x4e32;"
+            BlueprintName = "&#x4e32;"
+            ReferencedContainer = "container:&#x4e32;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
